@@ -1,5 +1,4 @@
 ## Hi there, I'm Misnad! 👋
----
 
 I'm a 20-year-old passionate computer science student with a deep interest in scientific computing and machine learning. Since I was a kid, I've been fascinated by technology, especially computers.
 
