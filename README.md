@@ -1,4 +1,5 @@
-### Hi there, I'm Misnad! 👋
+## Hi there, I'm Misnad! 👋
+---
 
 I'm a 20-year-old passionate computer science student with a deep interest in scientific computing and machine learning. Since I was a kid, I've been fascinated by technology, especially computers.
 
@@ -8,8 +9,8 @@ I'm a 20-year-old passionate computer science student with a deep interest in sc
 
 #### 🤝 Let's Connect
 
-- 📧 Email: (misnadqasim@gmail.com)[mailto:misnadqasim@gmail.com]
-- 💼 LinkedIn: (linkedin.com/in/Misnad)[linkedin.com/in/Misnad]
+- 📧 Email: [mailto:misnadqasim@gmail.com](misnadqasim@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/Misnad](linkedin.com/in/Misnad)
 - 🌐 Personal Website/Blog: misnadqasim.com (working on it)
 
 #### 💬 Get in Touch
